@@ -1,0 +1,11 @@
+body{
+	background:red;
+}
+
+section{
+	background:#870015FF ;
+	color:lightgray;
+	font-size: 2em;
+	width: 70%;
+	padding: 15px;
+}
